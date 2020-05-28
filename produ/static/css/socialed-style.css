@@ -4,16 +4,16 @@
 #container {
   font-family: Helvetica, Geneva, Arial, sans-serif;
   padding-left: 20px;
-  background-color: #FFFFFF; /* beige */
+  background-color: red; /* beige */
   font-color: #2A2929; /* dark grey */
   margin: 10px;
 }
 a:link{
- color:black;
+ color:grey;
 
  }
 a:hover {
-  color:green;
+  color:black;
 }
 h1 {
    color:blue;
