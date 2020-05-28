@@ -45,7 +45,7 @@ label {
 #container {
   font-family: Helvetica, Geneva, Arial, sans-serif;
   padding-left: 20px;
-  background-color: #FFFFFF; /* beige */
+  background-color: red; /* beige */
   font-color: #2A2929; /* dark grey */
   margin: 10px;
 }
@@ -54,15 +54,15 @@ a:link{
   text-decoration:none;
 }
 a:hover {
-  color:#cd7f32; /* light bronze */
+  color:blue; /* light bronze */
 }
 h1 {
-  color: #d69544; /* bronze */
+  color: blue; /* bronze */
   font-size: 200%;
   margin: 20px;
 }
 form {
-  border: 2px solid #d69544; /* bronze */
+  border: 2px solid blue; /* bronze */
   border-radius: 10px;
   overflow: hidden;
   margin: 5px;
